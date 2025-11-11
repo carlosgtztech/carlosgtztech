@@ -1,4 +1,4 @@
-h1>Hi, I'm Carlos! <br/><a href="www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Carlos! <br/><a href="www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
