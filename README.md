@@ -20,7 +20,7 @@
 [gmail]: gutierrezc0911@gmail.com
 [linkedin]: www.linkedin.com/in/carlos-almendares-4675aa363
 
-
+<!--
 **carlosgtztech/carlosgtztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
