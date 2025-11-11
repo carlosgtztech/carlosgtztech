@@ -14,8 +14,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="carlos-almendares-4675aa363 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="carlosalmendares | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="carlosgtztech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="carlosgtztech | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 [gmail]: gutierrezc0911@gmail.com/
 [linkedin]: www.linkedin.com/in/carlos-almendares-4675aa363/
