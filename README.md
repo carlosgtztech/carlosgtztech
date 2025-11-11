@@ -1,6 +1,26 @@
-## Hi there 👋
+h1>Hi, I'm Carlos! <br/><a href="www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
 
-<!--
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory </b>
+
+- <b>PowerShell</b>
+
+- <b>Python</b>
+
+<h2>📄Certifications </h2>
+
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="carlos-almendares-4675aa363 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="carlosalmendares | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+[gmail]: gutierrezc0911@gmail.com
+[linkedin]: www.linkedin.com/in/carlos-almendares-4675aa363
+
+
 **carlosgtztech/carlosgtztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +31,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
