@@ -11,6 +11,7 @@
 <h2>📄Certifications </h2>
 
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
+- [Networking]()
 
 <h2> 🤳 Connect with me:</h2>
 
