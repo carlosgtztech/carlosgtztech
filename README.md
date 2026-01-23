@@ -4,7 +4,7 @@
 
 - <b>Active Directory </b>
 
-- <b>SQL</b>
+- <b>PowerShell </b>
 
 - <b>Python</b>
 
