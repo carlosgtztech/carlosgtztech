@@ -11,7 +11,7 @@
 <h2>📄Certifications </h2>
 
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
-- [Google Cybersecurity Certificate]()
+- [Google Cybersecurity Certificate](https://coursera.org/share/18329b952270224d459f1961652199d2)
 
 <h2> 🤳 Connect with me:</h2>
 
