@@ -34,7 +34,7 @@
 
 <div align="center">
 
-**Networking** • **Active Directory** • **PowerShell** • **Python** • **Security Fundamentals**
+**Networking** • **Active Directory** • **PowerShell** • **Python** • **Security Fundamentals** •
 **SQL** • **linux** • **Packet Tracer**
 
 </div>
