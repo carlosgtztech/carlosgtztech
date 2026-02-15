@@ -1,26 +1,64 @@
-<h1>Hi, I'm Carlos! <br/><a href="https://www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
+<h1 align="center">Hi, I'm Carlos! 👋 <br/><a href="https://www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-almendares-4675aa363)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosgutierrez.it@gmail.com)
+  
+</div>
 
-- <b>Active Directory </b>
+---
 
-- <b>PowerShell </b>
-  - [PS-System-Reporter](https://github.com/carlosgtztech/PS-System-Reporter)
+## 👨‍💻 Cybersecurity Projects
 
-- <b>Python</b>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Active Directory Lab** | *Coming soon* | Active Directory, Windows Server |
+| **[PS-System-Reporter](https://github.com/carlosgtztech/PS-System-Reporter)** | System information reporting tool | PowerShell |
+| **Python Security Tools** | *Coming soon* | Python |
 
-<h2>📄Certifications </h2>
+---
 
-- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
-- [Google Cybersecurity Certificate](https://coursera.org/share/18329b952270224d459f1961652199d2)
+## 📜 Certifications
 
-<h2> 🤳 Connect with me:</h2>
+<div align="center">
 
-[<img align="left" alt="carlosgtztech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="carlosgtztech | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[![CCNA: Switching, Routing, and Wireless Essentials](https://img.shields.io/badge/CCNA-SRWE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/18329b952270224d459f1961652199d2)
 
-[gmail]: mailto:carlosgutierrez.it@gmail.com
-[linkedin]: https://linkedin.com/in/carlos-almendares-4675aa363
+</div>
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+**Networking** • **Active Directory** • **PowerShell** • **Python** • **Security Fundamentals**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgtztech&show_icons=true&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Let's connect and talk about cybersecurity!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-almendares-4675aa363)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosgutierrez.it@gmail.com)
+
+</div>
+
 
 <!--
 **carlosgtztech/carlosgtztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
