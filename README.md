@@ -50,16 +50,6 @@
 
 ---
 
-<div align="center">
-  
-### 💬 Let's connect and talk about cybersecurity!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-almendares-4675aa363)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosgutierrez.it@gmail.com)
-
-</div>
-
-
 <!--
 **carlosgtztech/carlosgtztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
