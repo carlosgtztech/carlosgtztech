@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgtztech&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carlosgtztech?cardType=github&theme=dark&fontFamily=&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
