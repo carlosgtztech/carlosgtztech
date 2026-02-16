@@ -15,7 +15,7 @@
 |---------|-------------|--------------|
 | **Active Directory Lab** | *Coming soon* | Active Directory, Windows Server |
 | **[PS-System-Reporter](https://github.com/carlosgtztech/PS-System-Reporter)** | System information reporting tool | PowerShell |
-| **Python Security Tools** | *Coming soon* | Python |
+| **Minecraft Server** | *Coming soon* | Linux |
 
 ---
 
