@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carlos! 👋 <br/><a href="https://www.linkedin.com/in/carlos-almendares-4675aa363">Cybersecurity Student</a></h1>
+<h1 align="center">Hi, I'm Carlos! 👋 <br/><a href="https://www.linkedin.com/in/carlos-almendares-4675aa363">Tech Enthusiast</a></h1>
 
 <div align="center">
   
