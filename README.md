@@ -13,7 +13,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **[Microsoft Server Capstone](https://github.com/carlosgtztech/Microsoft-server-capstone)** | Windows Server enterprise environment featuring Acive Directory, DNS configuration, and custom Group Policies   | Active Directory, Windows Server |
+| **[Microsoft Server Capstone](https://github.com/carlosgtztech/Microsoft-server-capstone)** | Windows Server enterprise environment featuring Acive Directory, DNS configuration, and custom Group Policies   | Active Directory, Windows Server, Kali Linux |
 | **[PS-System-Reporter](https://github.com/carlosgtztech/PS-System-Reporter)** | System information reporting tool | PowerShell |
 | **Minecraft Server** | *Coming soon* | Linux |
 
