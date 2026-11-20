@@ -24,7 +24,7 @@
 <div align="center">
 
 [![CCNA: Switching, Routing, and Wireless Essentials](https://img.shields.io/badge/CCNA-SRWE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/64bd874b-754c-434c-a95b-eee04ce7bde2/public_url)
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/18329b952270224d459f1961652199d2)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/f0f70b07-0ae5-43be-8979-ac4f8deb7e18/public_url)
 [![Python Essentials 2](https://img.shields.io/badge/PYTHON-SRWE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/c253eaca-7cc2-4035-b32b-c8ccff69b406/public_url)
 
 </div>
