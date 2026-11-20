@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carlosgtztech?cardType=github&theme=dark&fontFamily=&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-
----
 
 <!--
 **carlosgtztech/carlosgtztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
